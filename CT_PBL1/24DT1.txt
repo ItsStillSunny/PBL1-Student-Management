@@ -1,0 +1,12 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Dien tu - Vien thong24DT1
+				DANH SACH LOP 24DT1 - Khoa hoc 2024
+
+						DANH SACH LOP 24DT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Quoc        Dat     | Nam      | 12/10/2006   | Quang Ngai         | 
+ 0   |            | Le Tuan            Khanh   | Nam      | 03/08/2006   | Da Nang            | 
+ 0   |            | Nguyen Xuan        Nghia   | Nam      | 11/05/2006   | Nghe An            | 
+ 0   |            | Nguyen Quang       Huy     | Nam      | 28/06/2006   | Binh Dinh          | 

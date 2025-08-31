@@ -1,0 +1,10 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Dien
+				DANH SACH LOP 23D1 - Khoa hoc 2023
+
+						DANH SACH LOP 23D1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Pham Nguyen        Khang   | Nam      | 23/04/2005   | Nghe An            | 
+ 0   |            | Hoang Vu Tuan      Anh     | Nam      | 09/11/2005   | Thua Thien Hue     | 

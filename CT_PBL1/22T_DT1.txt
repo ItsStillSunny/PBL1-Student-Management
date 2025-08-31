@@ -1,0 +1,11 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Cong nghe thong tin
+				DANH SACH LOP 22T_DT1 - Khoa hoc 2022
+
+						DANH SACH LOP 22T_DT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Ngo Huu            Hoang   | Nam      | 23/08/2004   | Ha Tinh            | 
+ 0   |            | Nguyen Gia         Bao     | Nam      | 22/10/2004   | Quang Nam          | 
+ 0   |            | Nguyen Nhat        Phong   | Nam      | 20/12/2004   | Ha Tinh            | 

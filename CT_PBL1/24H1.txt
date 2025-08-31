@@ -1,0 +1,13 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Hoa
+				DANH SACH LOP 24H1 - Khoa hoc 2024
+
+						DANH SACH LOP 24H1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Minh        Nhat    | Nam      | 01/04/2006   | Da Nang            | 
+ 0   |            | Tran Quang         Anh     | Nam      | 02/07/2006   | Thua Thien Hue     | 
+ 0   |            | Dang Quang         Hau     | Nam      | 30/08/2006   | Thanh Hoa          | 
+ 0   |            | Le Nhat            Minh    | Nam      | 28/03/2006   | Quang Binh         | 
+ 0   |            | Nguyen Long        Vu      | Nam      | 09/01/2006   | Ha Tinh            | 

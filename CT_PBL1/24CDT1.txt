@@ -1,0 +1,58 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Co khi
+				DANH SACH LOP 24CDT1 - Khoa hoc 2024
+
+						DANH SACH LOP 24CDT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 1   | 101240001  | Nguyen Hoang Duy   Anh     | Nam      | 01/05/2006   | Thua Thien Hue     | 101240001@sv1.dut.udn.vn
+ 2   | 101240002  | Nguyen Hoang Duy   Anh     | Nam      | 11/08/2006   | Ha Tinh            | 101240002@sv1.dut.udn.vn
+ 3   | 101240003  | Nguyen Ngoc Gia    Bao     | Nam      | 04/02/2006   | Khanh Hoa          | 101240003@sv1.dut.udn.vn
+ 4   | 101240004  | Nguyen Tri         Bao     | Nam      | 16/10/2006   | Da Nang            | 101240004@sv1.dut.udn.vn
+ 5   | 101240005  | Tran Minh          Chau    | Nam      | 26/10/2006   | Quang Nam          | 101240005@sv1.dut.udn.vn
+ 6   | 101240006  | Duong Ba           Chien   | Nam      | 01/01/2006   | Quang Tri          | 101240006@sv1.dut.udn.vn
+ 7   | 101240007  | Tran Van           Cuong   | Nam      | 04/10/2006   | Quang Tri          | 101240007@sv1.dut.udn.vn
+ 8   | 101240008  | Le Ba              Dai     | Nam      | 01/06/2006   | Quang Nam          | 101240008@sv1.dut.udn.vn
+ 9   | 101240009  | Pham Thanh         Dat     | Nam      | 26/08/2006   | Da Nang            | 101240009@sv1.dut.udn.vn
+ 10  | 101240010  | Nguyen Truong      Giang   | Nam      | 27/09/2006   | Quang Ngai         | 101240010@sv1.dut.udn.vn
+ 11  | 101240011  | Ho Van             Ha      | Nam      | 10/03/2006   | Quang Ngai         | 101240011@sv1.dut.udn.vn
+ 12  | 101240012  | Nguyen Minh        Hien    | Nam      | 11/12/2006   | Binh Dinh          | 101240012@sv1.dut.udn.vn
+ 13  | 101240013  | Bui Minh           Hieu    | Nam      | 03/08/2006   | Quang Binh         | 101240013@sv1.dut.udn.vn
+ 14  | 101240014  | Nguyen Le Minh     Hieu    | Nam      | 09/02/2006   | Quang Tri          | 101240014@sv1.dut.udn.vn
+ 15  | 101240015  | Nguyen Thi Kim     Hieu    | Nu       | 17/02/2006   | Quang Nam          | 101240015@sv1.dut.udn.vn
+ 16  | 101240016  | Nguyen Vinh        Hieu    | Nam      | 19/01/2006   | Da Nang            | 101240016@sv1.dut.udn.vn
+ 17  | 101240017  | Nguyen Dinh        Hoang   | Nam      | 23/09/2006   | Da Nang            | 101240017@sv1.dut.udn.vn
+ 18  | 101240018  | Hoang Dinh         Huy     | Nam      | 10/12/2006   | Quang Binh         | 101240018@sv1.dut.udn.vn
+ 19  | 101240019  | Pham Nam           Khang   | Nam      | 23/01/2006   | Thua Thien Hue     | 101240019@sv1.dut.udn.vn
+ 20  | 101240020  | Pham Nguyen        Khang   | Nam      | 23/04/2006   | Nghe An            | 101240020@sv1.dut.udn.vn
+ 21  | 101240021  | Do Tuan            Kiet    | Nam      | 22/03/2006   | Thanh Hoa          | 101240021@sv1.dut.udn.vn
+ 22  | 101240022  | Cao Van            Linh    | Nam      | 13/09/2006   | Quang Nam          | 101240022@sv1.dut.udn.vn
+ 23  | 101240023  | Nguyen Xuan        Linh    | Nam      | 17/01/2006   | Nghe An            | 101240023@sv1.dut.udn.vn
+ 24  | 101240024  | Nguyen Ngoc        Luc     | Nam      | 14/07/2006   | Thua Thien Hue     | 101240024@sv1.dut.udn.vn
+ 25  | 101240025  | Nguyen Tan         Phat    | Nam      | 18/01/2006   | Quang Nam          | 101240025@sv1.dut.udn.vn
+ 26  | 101240026  | Nguyen Nhat Tuan   Phong   | Nam      | 09/02/2006   | Thua Thien Hue     | 101240026@sv1.dut.udn.vn
+ 27  | 101240027  | Nguyen Phi         Phuc    | Nam      | 20/11/2006   | Quang Nam          | 101240027@sv1.dut.udn.vn
+ 28  | 101240028  | Nguyen Manh        Quan    | Nam      | 21/11/2006   | Ha Tinh            | 101240028@sv1.dut.udn.vn
+ 29  | 101240029  | Nguyen Tho         Quan    | Nam      | 20/10/2006   | Nghe An            | 101240029@sv1.dut.udn.vn
+ 30  | 101240030  | Ngo Van Thanh      Quang   | Nam      | 09/12/2006   | Quang Nam          | 101240030@sv1.dut.udn.vn
+ 31  | 101240031  | Vo Viet            Sinh    | Nam      | 06/05/2006   | Quang Tri          | 101240031@sv1.dut.udn.vn
+ 32  | 101240032  | Mai Van            Son     | Nam      | 14/02/2006   | Nghe An            | 101240032@sv1.dut.udn.vn
+ 33  | 101240033  | Phan Hoang         Son     | Nam      | 23/08/2006   | Nghe An            | 101240033@sv1.dut.udn.vn
+ 34  | 101240034  | Truong Hoang       Son     | Nam      | 27/04/2006   | Quang Nam          | 101240034@sv1.dut.udn.vn
+ 35  | 101240035  | Nguyen Chau Anh    Tai     | Nam      | 04/04/2006   | Thua Thien Hue     | 101240035@sv1.dut.udn.vn
+ 36  | 101240036  | Nguyen Kim Hoang   Tan     | Nam      | 02/07/2006   | Quang Nam          | 101240036@sv1.dut.udn.vn
+ 37  | 101240037  | Tran Van           Tay     | Nam      | 21/03/2006   | Quang Tri          | 101240037@sv1.dut.udn.vn
+ 38  | 101240038  | Nguyen Duc Thanh   The     | Nam      | 13/02/2006   | Quang Nam          | 101240038@sv1.dut.udn.vn
+ 39  | 101240039  | Bui Duy            Thinh   | Nam      | 19/01/2006   | Quang Nam          | 101240039@sv1.dut.udn.vn
+ 40  | 101240040  | Nguyen Van         Tien    | Nam      | 22/09/2006   | Nghe An            | 101240040@sv1.dut.udn.vn
+ 41  | 101240041  | Nguyen Van         Trung   | Nam      | 12/12/2006   | Nghe An            | 101240041@sv1.dut.udn.vn
+ 42  | 101240042  | Doan Kim           Tu      | Nam      | 02/11/2006   | Quang Nam          | 101240042@sv1.dut.udn.vn
+ 43  | 101240043  | Phan Le Anh        Tu      | Nam      | 01/09/2006   | Quang Ngai         | 101240043@sv1.dut.udn.vn
+ 44  | 101240044  | Le Van             Tuan    | Nam      | 30/12/2006   | Thanh Hoa          | 101240044@sv1.dut.udn.vn
+ 45  | 101240045  | Tran Quoc          Tuan    | Nam      | 07/01/2006   | Ha Tinh            | 101240045@sv1.dut.udn.vn
+ 46  | 101240046  | Tran Van           Tuyen   | Nam      | 25/03/2006   | Quang Binh         | 101240046@sv1.dut.udn.vn
+ 47  | 101240047  | Nguyen Cong        Viet    | Nam      | 23/02/2006   | Nghe An            | 101240047@sv1.dut.udn.vn
+ 48  | 101240048  | Tran Dang          Viet    | Nam      | 18/08/2006   | Nghe An            | 101240048@sv1.dut.udn.vn
+ 49  | 101240049  | Nguyen Quang       Vu      | Nam      | 01/05/2006   | Da Nang            | 101240049@sv1.dut.udn.vn
+ 50  | 101240050  | Le Van             Vy      | Nam      | 26/10/2006   | Da Nang            | 101240050@sv1.dut.udn.vn

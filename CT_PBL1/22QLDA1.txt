@@ -1,0 +1,12 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Quan li du an
+				DANH SACH LOP 22QLDA1 - Khoa hoc 2022
+
+						DANH SACH LOP 22QLDA1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Le Thi Dieu        Linh    | Nu       | 14/12/2004   | Quang Tri          | 
+ 0   |            | Trinh Xuan         An      | Nam      | 10/02/2004   | Da Nang            | 
+ 0   |            | Ho Tien            Duc     | Nam      | 08/11/2004   | Thua Thien Hue     | 
+ 0   |            | Tran Van           Quyen   | Nam      | 30/07/2004   | Quang Nam          | 

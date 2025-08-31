@@ -1,0 +1,9 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Cong nghe thong tin
+				DANH SACH LOP 23T_DT2 - Khoa hoc 2023
+
+						DANH SACH LOP 23T_DT2
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Bui Truong         Anh     | Nam      | 21/01/2005   | Da Nang            | 

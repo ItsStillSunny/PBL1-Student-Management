@@ -1,0 +1,30 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Cong nghe thong tin
+				DANH SACH LOP 24T_DT1 - Khoa hoc 2024
+
+						DANH SACH LOP 24T_DT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 1   |            | Thai Hoang Ba      Dung    | Nam      | 23/11/2006   | Da Nang            | 
+ 2   |            | Le Thi             Hien    | Nu       | 13/03/2006   | Quang Binh         | 
+ 3   |            | Cao Viet           Hoang   | Nam      | 24/06/2006   | Gia Lai            | 
+ 4   |            | Le Nhat            Hoang   | Nam      | 11/02/2006   | Quang Nam          | 
+ 5   |            | Nguyen Le          Hoang   | Nam      | 05/09/2006   | Nghe An            | 
+ 6   |            | Tran Mai           Hung    | Nam      | 09/03/3006   | Da Nang            | 
+ 7   |            | Nguyen Huu Phuoc   Huy     | Nam      | 18/05/2006   | Quang Nam          | 
+ 8   |            | Truong Du          Khai    | Nam      | 23/07/2006   | Thanh Hoa          | 
+ 9   |            | Pham Quoc          Khanh   | Nam      | 25/09/2006   | Ha Tinh            | 
+ 10  |            | Hoang Anh          Kiet    | Nam      | 22/01/2006   | Quang Nam          | 
+ 11  |            | Nguyen Duc         Loc     | Nam      | 12/03/2006   | Thua Thien Hue     | 
+ 12  |            | Nguyen Quang       Minh    | Nam      | 24/09/2006   | Da Nang            | 
+ 13  |            | Dang Quang         Nhan    | Nam      | 24/11/2006   | Quang Binh         | 
+ 14  |            | Vo Truong          Nhat    | Nam      | 06/05/2006   | Quang Nam          | 
+ 15  |            | Nguyen Xuan        Phuoc   | Nam      | 30/10/2006   | Thua Thien Hue     | 
+ 16  |            | Le Van Minh        Quoc    | Nam      | 24/12/2006   | Quang Tri          | 
+ 17  |            | Ngo Thi Thanh      Thuyet  | Nu       | 28/06/2006   | Nghe An            | 
+ 18  |            | Phan Minh          Tri     | Nam      | 12/04/2006   | Quang Tri          | 
+ 19  |            | Nguyen Doan        Vinh    | Nam      | 14/08/2006   | Ha Tinh            | 
+ 20  |            | Nguyen Thuong      Vong    | Nam      | 09/09/2006   | Quang Ngai         | 
+ 21  |            | Mai Hoang          Vu      | Nam      | 21/07/2006   | Thua Thien Hue     | 
+ 22  |            | Phan Hong          Vy      | Nam      | 25/09/2006   | Thua Thien Hue     | 

@@ -1,0 +1,14 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Quan li du an
+				DANH SACH LOP 24QLDA1 - Khoa hoc 2024
+
+						DANH SACH LOP 24QLDA1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Anh         Quan    | Nam      | 19/05/2006   | Nghe An            | 
+ 0   |            | Nguyen Van         Quoc    | Nam      | 14/06/2006   | Thua Thien Hue     | 
+ 0   |            | Huynh Thi Hong     Tu      | Nu       | 09/06/2006   | Da Nang            | 
+ 0   |            | Le Van             Anh     | Nam      | 20/02/2006   | Nghe An            | 
+ 0   |            | Tran Van           Khoa    | Nam      | 24/11/2006   | Quang Nam          | 
+ 0   |            | Le Viet            Quoc    | Nam      | 29/05/2006   | Quang Tri          | 

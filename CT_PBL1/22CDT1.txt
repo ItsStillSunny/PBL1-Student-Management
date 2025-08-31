@@ -1,0 +1,21 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Co khi
+				DANH SACH LOP 22CDT1 - Khoa hoc 2022
+
+						DANH SACH LOP 22CDT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Thai        An      | Nam      | 26/04/2004   | Quang Nam          | 
+ 0   |            | Dao Doan Tuan      Anh     | Nam      | 04/10/2004   | Ha Tinh            | 
+ 0   |            | Le The             Anh     | Nam      | 28/11/2004   | Gia Lai            | 
+ 0   |            | Nguyen Xuan Quang  Anh     | Nam      | 13/01/2004   | Da Nang            | 
+ 0   |            | Ngo The            Bao     | Nam      | 06/12/2004   | Nghe An            | 
+ 0   |            | Nguyen Thu         Bao     | Nam      | 28/05/2004   | Nghe An            | 
+ 0   |            | Phan Hoang Quoc    Bao     | Nam      | 22/10/2004   | Quang Nam          | 
+ 0   |            | Truong Dinh        Bao     | Nam      | 10/03/2004   | Quang Tri          | 
+ 0   |            | Truong Quan        Dat     | Nam      | 11/02/2004   | Nghe An            | 
+ 0   |            | Dang Van Tien      Dat     | Nam      | 23/01/2004   | Da Nang            | 
+ 0   |            | Nguyen Thai        Duy     | Nam      | 25/12/2004   | Ho Chi Minh        | 
+ 0   |            | Pham Huu           Hoang   | Nam      | 23/07/2006   | Quang Ngai         | 
+ 0   |            | Tran Minh          Dat     | Nam      | 02/02/2004   | Da Nang            | 

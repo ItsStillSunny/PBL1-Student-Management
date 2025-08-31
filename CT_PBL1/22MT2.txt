@@ -1,0 +1,18 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Moi truong
+				DANH SACH LOP 22MT2 - Khoa hoc 2022
+
+						DANH SACH LOP 22MT2
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Vu Canh            Nguyen  | Nam      | 12/08/2004   | Quang Nam          | 
+ 0   |            | Tran Thanh         Phu     | Nam      | 17/05/2004   | Nghe An            | 
+ 0   |            | Le Viet            Quoc    | Nam      | 29/05/2004   | Quang Tri          | 
+ 0   |            | Ngo Hong           Tam     | Nu       | 23/08/2004   | Thua Thien Hue     | 
+ 0   |            | Nguyen Kim Hoang   Tan     | Nam      | 02/07/2004   | Quang Nam          | 
+ 0   |            | Tran Van           Tay     | Nam      | 21/03/2004   | Quang Tri          | 
+ 0   |            | Nguyen Tri         Bao     | Nam      | 16/10/2004   | Da Nang            | 
+ 0   |            | Duong Ba           Chien   | Nam      | 01/01/2004   | Quang Tri          | 
+ 0   |            | Tran Van           Cuong   | Nam      | 04/10/2004   | Quang Tri          | 
+ 0   |            | Pham Thanh         Dat     | Nam      | 26/08/2004   | Da Nang            | 

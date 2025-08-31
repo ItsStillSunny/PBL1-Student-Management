@@ -1,0 +1,12 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Nhiet - Dien lanh
+				DANH SACH LOP 22N1 - Khoa hoc 2022
+
+						DANH SACH LOP 22N1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Pham Huu           Luong   | Nam      | 09/04/2004   | Quang Binh         | 
+ 0   |            | Nguyen Xuan        Thien   | Nam      | 08/06/2004   | Nghe An            | 
+ 0   |            | Dau Le             Hung    | Nam      | 09/04/2004   | Binh Dinh          | 
+ 0   |            | Nguyen Anh         Khoa    | Nam      | 25/07/2004   | Da Nang            | 

@@ -1,0 +1,102 @@
+Nguyen Thai|An|Nam|26/04/2004|Quang Nam|101|2022
+Dao Doan Tuan|Anh|Nam|04/10/2004|Ha Tinh|101|2022
+Le The|Anh|Nam|28/11/2004|Gia Lai|101|2022
+Nguyen Xuan Quang|Anh|Nam|13/01/2004|Da Nang|101|2022
+Ngo The|Bao|Nam|06/12/2004|Nghe An|101|2022
+Nguyen Thu|Bao|Nam|28/05/2004|Nghe An|101|2022
+Phan Hoang Quoc|Bao|Nam|22/10/2004|Quang Nam|101|2022
+Truong Dinh|Bao|Nam|10/03/2004|Quang Tri|101|2022
+Nguyen Le Huong|Duyen|Nu|21/09/2004|Da Nang|117|2022
+Truong Quan|Dat|Nam|11/02/2004|Nghe An|101|2022
+Le Tran My|Hanh|Nu|06/08/2004|Thua Thien Hue|121|2022
+Ngo Huu|Hoang|Nam|23/08/2004|Ha Tinh|102|2022
+Pham Huu|Luong|Nam|09/04/2004|Quang Binh|104|2022
+Nguyen Le Quoc|Huy|Nam|24/12/2004|Da Nang|106|2022
+Le Thi Dieu|Linh|Nu|14/12/2004|Quang Tri|118|2022
+Dang Van Tien|Dat|Nam|23/01/2004|Da Nang|101|2022
+Nguyen Gia|Bao|Nam|22/10/2004|Quang Nam|102|2022
+Phan Tran Khanh|Linh|Nu|31/03/2004|Thanh Hoa|106|2022
+Luong Bao|Han|Nu|09/04/2004|Da Nang|121|2022
+Ton Nu Thien|Duyen|Nu|23/11/2004|Nghe An|117|2022
+Nguyen Nhat|Phong|Nam|20/12/2004|Ha Tinh|102|2022
+Mai Trong|Tin|Nam|06/07/2004|Thua Thien Hue|117|2022
+Huynh Cong|Tri|Nam|20/02/2004|Da Nang|117|2022
+Huynh Bich|Tram|Nu|15/01/2004|Binh Duong|117|2022
+Ha Van The|Dan|Nam|14/09/2004|Quang Nam|117|2022
+Nguyen Duy|Chien|Nam|25/08/2004|Quang Binh|106|2022
+Nguyen Thai|Duy|Nam|25/12/2004|Ho Chi Minh|101|2022
+Tran Thi Ngoc|Vi|Nu|12/11/2004|Nghe An|117|2022
+Le Cong|Binh|Nam|30/12/2004|Da Nang|117|2022
+Le Thi Bao|Ngoc|Nu|01/03/2004|Quang Nam|117|2022
+Pham Hoang Gia|Phu|Nam|30/03/2004|Quang Ngai|106|2022
+Nguyen Thi Yen|Nhi|Nu|08/09/2004|Thua Thien Hue|121|2022
+Le Minh|Nhat|Nam|01/06/2004|Quang Tri|117|2022
+Trinh Thi|Nga|Nu|27/07/2004|Da Nang|117|2022
+Nguyen Trong|An|Nam|01/10/2004|Quang Binh|117|2022
+Thai Van|Toan|Nam|04/02/2004|Nghe An|106|2022
+Ho Minh|Tu|Nam|10/07/2004|Quang Nam|117|2022
+Pham Thi|Yen|Nu|08/08/2004|Quang Tri|117|2022
+Nguyen Thanh|Viet|Nam|15/06/2004|Da Nang|117|2022
+Nguyen Anh|Truong|Nam|15/11/2004|Binh Dinh|117|2022
+Phan Le Mai|Huong|Nu|21/09/2004|Quang Binh|117|2022
+Nguyen Xuan|Thien|Nam|08/06/2004|Nghe An|104|2022
+Nguyen Thanh|Viet|Nam|01/03/2004|Da Nang|106|2022
+Duong Nhat|Quan|Nam|19/04/2004|Ha Tinh|117|2022
+Nguyen Hoang|Hai|Nam|12/10/2004|Da Nang|117|2022
+Nguyen Cong|Hau|Nam|19/01/2004|Da Nang|117|2022
+Pham Huu|Hoang|Nam|23/07/2006|Quang Ngai|101|2022
+Nguyen Phan Thuy|Tien|Nu|26/08/2004|Da Nang|117|2022
+Tran Thi My|Hao|Nu|01/08/2004|Thua Thien Hue|117|2022
+Le Viet|Hoang|Nam|13/11/2004|Quang Tri|117|2022
+Nguyen Thi Thanh|Tra|Nu|09/07/2004|Da Nang|117|2022
+Nguyen Dang|Truong|Nam|12/06/2004|Quang Nam|117|2022
+Trinh Xuan|An|Nam|12/04/2004|Quang Ngai|117|2022
+Nguyen Vien|Anh|Nam|21/12/2004|Quang Binh|117|2022
+Nguyen Thuong|Vong|Nam|10/02/2004|Quang Nam|117|2022
+Phan Tran Ha|Nhu|Nu|14/04/2004|Ho Chi Minh|117|2022
+Huynh Minh|Toan|Nam|14/08/2004|Ha Tinh|117|2022
+Trinh Xuan|An|Nam|10/02/2004|Da Nang|118|2022
+Luong Quang|An|Nam|09/08/2004|Thua Thien Hue|117|2022
+Ho Tien|Duc|Nam|08/11/2004|Thua Thien Hue|118|2022
+Tran Minh|Dat|Nam|02/02/2004|Da Nang|101|2022
+Tran Van|Quyen|Nam|30/07/2004|Quang Nam|118|2022
+Phan Phu My|Hung|Nam|23/08/2004|Nghe An|117|2022
+Dau Le|Hung|Nam|09/04/2004|Binh Dinh|104|2022
+Nguyen Anh|Khoa|Nam|25/07/2004|Da Nang|104|2022
+Nguyen Thi Kim|Hieu|Nu|26/09/2004|Nghe An|117|2022
+Tran Quang|Huy|Nam|22/11/2004|Binh Dinh|117|2022
+Nguyen Tran Le|Hang|Nu|21/01/2004|Quang Nam|117|2022
+Tran Le Bao|Ngan|Nu|01/01/2004|Thua Thien Hue|117|2022
+Le Thao|Nga|Nu|22/09/2004|Da Nang|117|2022
+Ta Quang|Khoi|Nam|23/01/2004|Quang Tri|117|2022
+Nguyen Thuy|Linh|Nu|08/02/2004|Quang Ngai|117|2022
+Nguyen Le Ba|Thong|Nam|02/11/2004|Da Nang|117|2022
+Le Hung|Thinh|Nam|03/02/2006|Dak Lak|117|2022
+Mai Thanh|Thao|Nu|22/05/2004|Binh Dinh|117|2022
+Huynh Bac|Trung|Nam|02/12/2004|Quang Binh|117|2022
+Tran Duc|Tuan|Nam|23/11/2004|Thanh Hoa|117|2022
+Tran To|Uyen|Nu|09/03/2004|Da Nang|117|2022
+Tran Van|Khoa|Nam|24/11/2004|Quang Nam|117|2022
+Bui Kim|Loc|Nam|24/07/2004|Quang Nam|117|2022
+Le Nhat|Minh|Nam|28/03/2004|Quang Binh|117|2022
+Nguyen Xuan|Nghia|Nam|11/05/2004|Nghe An|117|2022
+Vo Truong|Nhat|Nam|06/05/2004|Quang Nam|117|2022
+Vu Canh|Nguyen|Nam|12/08/2004|Quang Nam|117|2022
+Tran Thanh|Phu|Nam|17/05/2004|Nghe An|117|2022
+Le Viet|Quoc|Nam|29/05/2004|Quang Tri|117|2022
+Ngo Hong|Tam|Nu|23/08/2004|Thua Thien Hue|117|2022
+Nguyen Kim Hoang|Tan|Nam|02/07/2004|Quang Nam|117|2022
+Tran Van|Tay|Nam|21/03/2004|Quang Tri|117|2022
+Nguyen Tri|Bao|Nam|16/10/2004|Da Nang|117|2022
+Duong Ba|Chien|Nam|01/01/2004|Quang Tri|117|2022
+Tran Van|Cuong|Nam|04/10/2004|Quang Tri|117|2022
+Pham Thanh|Dat|Nam|26/08/2004|Da Nang|117|2022
+
+
+
+
+
+
+
+
+ 

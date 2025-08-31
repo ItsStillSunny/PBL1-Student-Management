@@ -1,0 +1,13 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Quan li du an
+				DANH SACH LOP 23QLDA1 - Khoa hoc 2023
+
+						DANH SACH LOP 23QLDA1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Ngoc        Anh     | Nu       | 12/06/2005   | Quang Nam          | 
+ 0   |            | Nguyen Anh         Tuyet   | Nu       | 20/11/2005   | Thua Thien Hue     | 
+ 0   |            | Tran Van           Tam     | Nam      | 11/02/2005   | Quang Nam          | 
+ 0   |            | Tran Nguyen Hoang  Bach    | Nam      | 26/05/2005   | Khanh Hoa          | 
+ 0   |            | Nguyen Chau Ngoc   Anh     | Nu       | 22/05/2005   | Da Nang            | 

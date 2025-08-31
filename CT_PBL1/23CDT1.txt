@@ -1,0 +1,13 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Co khi
+				DANH SACH LOP 23CDT1 - Khoa hoc 2023
+
+						DANH SACH LOP 23CDT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Dinh        Hoang   | Nam      | 23/09/2005   | Da Nang            | 
+ 0   |            | Do Tuan            Kiet    | Nam      | 22/03/2005   | Thanh Hoa          | 
+ 0   |            | Le Van             Minh    | Nam      | 10/05/2005   | Ha Tinh            | 
+ 0   |            | Duong Quoc         Hiep    | Nam      | 14/01/2005   | Quang Nam          | 
+ 0   |            | Doan Duc           Dat     | Nam      | 21/11/2005   | Quang Tri          | 

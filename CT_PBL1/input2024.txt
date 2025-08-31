@@ -1,0 +1,141 @@
+Nguyen Nhat Tuan|Phong|Nam|09/02/2006|Thua Thien Hue|101|2024
+Nguyen Phi|Phuc|Nam|20/11/2006|Quang Nam|101|2024
+Vo Hong|Phuc|Nam|28/04/2006|Quang Nam|117|2024
+Nguyen Xuan|Phuoc|Nam|30/10/2006|Thua Thien Hue|102|2024
+Nguyen Tho|Quan|Nam|20/10/2006|Nghe An|101|2024
+Nguyen Van Minh|Toan|Nam|20/04/2006|Quang Nam|121|2024
+Duong Van|Thanh|Nam|11/04/2006|Quang Nam|121|2024
+Vo Viet|Sinh|Nam|06/05/2006|Quang Tri|101|2024
+Truong Hoang|Son|Nam|27/04/2006|Quang Nam|101|2024
+Nguyen Chau Anh|Tai|Nam|04/04/2006|Thua Thien Hue|101|2024
+Phan Le Anh|Tu|Nam|01/09/2006|Quang Ngai|101|2024
+Tran Dang|Viet|Nam|18/08/2006|Nghe An|101|2024
+Mai Hoang|Vu|Nam|21/07/2006|Thua Thien Hue|102|2024
+Tran Minh|Chau|Nam|26/10/2006|Quang Nam|101|2024
+Phan Gia|Bao|Nam|28/10/2006|Da Nang|117|2024
+Doan Do Thanh|Danh|Nam|27/10/2006|Ho Chi Minh|105|2024
+Ngo Van Nhat|Duy|Nam|31/10/2006|Thua Thien Hue|105|2024
+Nguyen Quoc|Dat|Nam|12/10/2006|Quang Ngai|106|2024
+Ho Van|Ha|Nam|10/03/2006|Quang Ngai|101|2024
+Bui Minh|Hieu|Nam|03/08/2006|Quang Binh|101|2024
+Nguyen Le|Hoang|Nam|05/09/2006|Nghe An|102|2024
+Ho Huu|Hung|Nam|10/01/2006|Nghe An|117|2024
+Le Tuan|Khanh|Nam|03/08/2006|Da Nang|106|2024
+Phan Cong|Huy|Nam|04/08/2006|Quang Nam|121|2024
+Phan Thanh|Khoi|Nam|25/08/2006|Ha Tinh|121|2024
+Nguyen Xuan|Linh|Nam|17/01/2006|Nghe An|101|2024
+Tran Thao|Nhi|Nu|08/03/2006|Quang Binh|121|2024
+Nguyen Ngoc|Luc|Nam|14/07/2006|Thua Thien Hue|101|2024
+Le Thi|Hien|Nu|13/03/2006|Quang Binh|102|2024
+Hoang Cong|Nam|Nam|23/10/2006|Binh Dinh|117|2024
+Nguyen Minh|Nhat|Nam|01/04/2006|Da Nang|107|2024
+Nguyen Anh|Quan|Nam|19/05/2006|Nghe An|118|2024
+Nguyen Van|Quoc|Nam|14/06/2006|Thua Thien Hue|118|2024
+Mai Van|Son|Nam|14/02/2006|Nghe An|101|2024
+Nguyen Hoang|Tam|Nam|22/12/2006|Binh Duong|121|2024
+Nguyen Tien|Thanh|Nam|19/06/2006|Da Nang|104|2024
+Nguyen Van|Thuan|Nam|21/10/2006|Quang Ngai|105|2024
+Nguyen Cong|Viet|Nam|23/02/2006|Nghe An|101|2024
+Nguyen Doan Anh|Thu|Nu|16/06/2006|Quang Nam|117|2024
+Phan Minh|Tri|Nam|12/04/2006|Quang Tri|102|2024
+Nguyen Van|Trung|Nam|12/12/2006|Nghe An|101|2024
+Huynh Thi Hong|Tu|Nu|09/06/2006|Da Nang|118|2024
+Tran Quoc|Tuan|Nam|07/01/2006|Ha Tinh|101|2024
+Nguyen Doan|Vinh|Nam|14/08/2006|Ha Tinh|102|2024
+Phan Minh|Vinh|Nam|02/08/2006|Da Nang|104|2024
+Vo Minh|Vuong|Nam|20/10/2006|Quang Nam|105|2024
+Pham Ngoc|An|Nu|23/06/2006|Da Nang|121|2024
+Le Van|Anh|Nam|20/02/2006|Nghe An|118|2024
+Tran Quang|Anh|Nam|02/07/2006|Thua Thien Hue|107|2024
+Nguyen Kien|Cuong|Nam|13/04/2006|Quang Binh|105|2024
+Mai Quoc|Dat|Nam|20/02/2006|Quang Tri|105|2024
+Dang Quang|Hau|Nam|30/08/2006|Thanh Hoa|107|2024
+Nguyen Duc|Hien|Nam|02/06/2006|Quang Nam|104|2024
+Cao Viet|Hoang|Nam|24/06/2006|Gia Lai|102|2024
+Phan Dinh|Hoang|Nam|14/11/2006|Quang Binh|117|2024
+Do Minh|Huy|Nam|08/10/2006|Da Nang|121|2024
+Nguyen Huu Phuoc|Huy|Nam|18/05/2006|Quang Nam|102|2024
+Phan Thanh|Huyen|Nu|19/05/2006|Hai Phong|121|2024
+Tran Van|Khoa|Nam|24/11/2006|Quang Nam|118|2024
+Bui Kim|Loc|Nam|24/07/2006|Quang Nam|104|2024
+Le Nhat|Minh|Nam|28/03/2006|Quang Binh|107|2024
+Nguyen Xuan|Nghia|Nam|11/05/2006|Nghe An|106|2024
+Vo Truong|Nhat|Nam|06/05/2006|Quang Nam|102|2024
+Vu Canh|Nguyen|Nam|12/08/2006|Quang Nam|117|2024
+Tran Thanh|Phu|Nam|17/05/2006|Nghe An|121|2024
+Le Viet|Quoc|Nam|29/05/2006|Quang Tri|118|2024
+Ngo Hong|Tam|Nu|23/08/2006|Thua Thien Hue|105|2024
+Nguyen Kim Hoang|Tan|Nam|02/07/2006|Quang Nam|101|2024
+Tran Van|Tay|Nam|21/03/2006|Quang Tri|101|2024
+Nguyen Tri|Bao|Nam|16/10/2006|Da Nang|101|2024
+Duong Ba|Chien|Nam|01/01/2006|Quang Tri|101|2024
+Tran Van|Cuong|Nam|04/10/2006|Quang Tri|101|2024
+Pham Thanh|Dat|Nam|26/08/2006|Da Nang|101|2024
+Nguyen Truong|Giang|Nam|27/09/2006|Quang Ngai|101|2024
+Nguyen Vinh|Hieu|Nam|19/01/2006|Da Nang|101|2024
+Nguyen Tan|Phat|Nam|18/01/2006|Quang Nam|101|2024
+Nguyen Duc Thanh|The|Nam|13/02/2006|Quang Nam|101|2024
+Phan Hoang|Son|Nam|23/08/2006|Nghe An|101|2024
+Bui Duy|Thinh|Nam|19/01/2006|Quang Nam|101|2024
+Nguyen Thanh|Tuan|Nam|09/05/2006|Nghe An|121|2024
+Doan Kim|Tu|Nam|02/11/2006|Quang Nam|101|2024
+Nguyen Quang|Vu|Nam|01/05/2006|Da Nang|101|2024
+Tran Van|Tuyen|Nam|25/03/2006|Quang Binh|101|2024
+Nguyen Hoang Duy|Anh|Nam|01/05/2006|Thua Thien Hue|101|2024
+Nguyen Van|Tien|Nam|22/09/2006|Nghe An|101|2024
+Nguyen Manh|Quan|Nam|21/11/2006|Ha Tinh|101|2024
+Nguyen Ngoc Gia|Bao|Nam|04/02/2006|Khanh Hoa|101|2024
+Le Ba|Dai|Nam|01/06/2006|Quang Nam|101|2024
+Pham Gia|Han|Nu|22/11/2006|Da Nang|121|2024
+Nguyen Hoang Duy|Anh|Nam|11/08/2006|Ha Tinh|101|2024
+Nguyen Le Minh|Hieu|Nam|09/02/2006|Quang Tri|101|2024
+Pham Nam|Khang|Nam|23/01/2006|Thua Thien Hue|101|2024
+Phan Thi My|Linh|Nu|10/02/2006|Quang Binh|117|2024
+Nguyen Quang|Minh|Nam|24/09/2006|Da Nang|102|2024
+Le Van|Tuan|Nam|30/12/2006|Thanh Hoa|101|2024
+Ngo Van Thanh|Quang|Nam|09/12/2006|Quang Nam|101|2024
+Nguyen Thuong|Vong|Nam|09/09/2006|Quang Ngai|102|2024
+Truong Quang|Nguyen|Nam|20/08/2006|Quang Nam|121|2024
+Phan Hoang Truong|Phuoc|Nam|02/04/2006|Da Nang|121|2024
+Huynh Nhat|Nam|Nam|09/12/2006|Gia Lai|121|2024
+Nguyen Bao|Sung|Nam|01/01/2006|Quang Tri|121|2024
+Nguyen Xuan|Thanh|Nam|27/10/2006|Da Nang|121|2024
+Hoang Dac|Thao|Nam|19/11/2006|Thua Thien Hue|121|2024
+Nguyen Khac|Manh|Nam|09/07/2006|Quang Binh|121|2024
+Le Viet|Anh|Nam|09/02/2006|Ha Tinh|121|2024
+Le Quoc|Bao|Nam|22/10/2006|Quang Nam|121|2024
+Duong Ha|Chi|Nu|21/05/2006|Quang Tri|121|2024
+Phan Hong|Vy|Nam|25/09/2006|Thua Thien Hue|102|2024
+Thai Hoang Ba|Dung|Nam|23/11/2006|Da Nang|102|2024
+Le Nhat|Hoang|Nam|11/02/2006|Quang Nam|102|2024
+Truong Du|Khai|Nam|23/07/2006|Thanh Hoa|102|2024
+Pham Quoc|Khanh|Nam|25/09/2006|Ha Tinh|102|2024
+Tran Mai|Hung|Nam|09/03/3006|Da Nang|102|2024
+Hoang Anh|Kiet|Nam|22/01/2006|Quang Nam|102|2024
+Nguyen Duc|Loc|Nam|12/03/2006|Thua Thien Hue|102|2024
+Dang Quang|Nhan|Nam|24/11/2006|Quang Binh|102|2024
+Le Van Minh|Quoc|Nam|24/12/2006|Quang Tri|102|2024
+Ngo Thi Thanh|Thuyet|Nu|28/06/2006|Nghe An|102|2024
+Vu Thai|Son|Nam|22/01/2006|Da Nang|104|2024
+Nguyen Xuan|Tai|Nam|22/08/2006|Nghe An|104|2024
+Nguyen Long|Vu|Nam|09/01/2006|Ha Tinh|107|2024
+Le Van|Vy|Nam|26/10/2006|Da Nang|101|2024
+Nguyen Thi Kim|Hieu|Nu|17/02/2006|Quang Nam|101|2024
+Nguyen Quang|Huy|Nam|28/06/2006|Binh Dinh|106|2024
+Nguyen Dinh|Hoang|Nam|23/09/2006|Da Nang|101|2024
+Nguyen Minh|Hien|Nam|11/12/2006|Binh Dinh|101|2024
+Pham Nguyen|Khang|Nam|23/04/2006|Nghe An|101|2024
+Cao Van|Linh|Nam|13/09/2006|Quang Nam|101|2024
+Do Tuan|Kiet|Nam|22/03/2006|Thanh Hoa|101|2024
+Hoang Dinh|Huy|Nam|10/12/2006|Quang Binh|101|2024
+
+
+
+
+
+
+
+
+
+
+

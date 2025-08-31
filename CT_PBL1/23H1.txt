@@ -1,0 +1,11 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Hoa
+				DANH SACH LOP 23H1 - Khoa hoc 2023
+
+						DANH SACH LOP 23H1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Pham Minh          Hung    | Nam      | 11/03/2005   | Quang Binh         | 
+ 0   |            | Cao Van            Linh    | Nam      | 13/09/2005   | Quang Nam          | 
+ 0   |            | Pham Xuan          Hieu    | Nam      | 17/11/2005   | Quang Binh         | 

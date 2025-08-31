@@ -1,0 +1,58 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Moi truong
+				DANH SACH LOP 22MT1 - Khoa hoc 2022
+
+						DANH SACH LOP 22MT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 1   | 117220001  | Luong Quang        An      | Nam      | 09/08/2004   | Thua Thien Hue     | 117220001@sv3.dut.udn.vn
+ 2   | 117220002  | Nguyen Trong       An      | Nam      | 01/10/2004   | Quang Binh         | 117220002@sv3.dut.udn.vn
+ 3   | 117220003  | Trinh Xuan         An      | Nam      | 12/04/2004   | Quang Ngai         | 117220003@sv3.dut.udn.vn
+ 4   | 117220004  | Nguyen Vien        Anh     | Nam      | 21/12/2004   | Quang Binh         | 117220004@sv3.dut.udn.vn
+ 5   | 117220005  | Le Cong            Binh    | Nam      | 30/12/2004   | Da Nang            | 117220005@sv3.dut.udn.vn
+ 6   | 117220006  | Ha Van The         Dan     | Nam      | 14/09/2004   | Quang Nam          | 117220006@sv3.dut.udn.vn
+ 7   | 117220007  | Nguyen Le Huong    Duyen   | Nu       | 21/09/2004   | Da Nang            | 117220007@sv3.dut.udn.vn
+ 8   | 117220008  | Ton Nu Thien       Duyen   | Nu       | 23/11/2004   | Nghe An            | 117220008@sv3.dut.udn.vn
+ 9   | 117220009  | Nguyen Hoang       Hai     | Nam      | 12/10/2004   | Da Nang            | 117220009@sv3.dut.udn.vn
+ 10  | 117220010  | Nguyen Tran Le     Hang    | Nu       | 21/01/2004   | Quang Nam          | 117220010@sv3.dut.udn.vn
+ 11  | 117220011  | Tran Thi My        Hao     | Nu       | 01/08/2004   | Thua Thien Hue     | 117220011@sv3.dut.udn.vn
+ 12  | 117220012  | Nguyen Cong        Hau     | Nam      | 19/01/2004   | Da Nang            | 117220012@sv3.dut.udn.vn
+ 13  | 117220013  | Nguyen Thi Kim     Hieu    | Nu       | 26/09/2004   | Nghe An            | 117220013@sv3.dut.udn.vn
+ 14  | 117220014  | Le Viet            Hoang   | Nam      | 13/11/2004   | Quang Tri          | 117220014@sv3.dut.udn.vn
+ 15  | 117220015  | Phan Phu My        Hung    | Nam      | 23/08/2004   | Nghe An            | 117220015@sv3.dut.udn.vn
+ 16  | 117220016  | Phan Le Mai        Huong   | Nu       | 21/09/2004   | Quang Binh         | 117220016@sv3.dut.udn.vn
+ 17  | 117220017  | Tran Quang         Huy     | Nam      | 22/11/2004   | Binh Dinh          | 117220017@sv3.dut.udn.vn
+ 18  | 117220018  | Tran Van           Khoa    | Nam      | 24/11/2004   | Quang Nam          | 117220018@sv3.dut.udn.vn
+ 19  | 117220019  | Ta Quang           Khoi    | Nam      | 23/01/2004   | Quang Tri          | 117220019@sv3.dut.udn.vn
+ 20  | 117220020  | Nguyen Thuy        Linh    | Nu       | 08/02/2004   | Quang Ngai         | 117220020@sv3.dut.udn.vn
+ 21  | 117220021  | Bui Kim            Loc     | Nam      | 24/07/2004   | Quang Nam          | 117220021@sv3.dut.udn.vn
+ 22  | 117220022  | Le Nhat            Minh    | Nam      | 28/03/2004   | Quang Binh         | 117220022@sv3.dut.udn.vn
+ 23  | 117220023  | Le Thao            Nga     | Nu       | 22/09/2004   | Da Nang            | 117220023@sv3.dut.udn.vn
+ 24  | 117220024  | Trinh Thi          Nga     | Nu       | 27/07/2004   | Da Nang            | 117220024@sv3.dut.udn.vn
+ 25  | 117220025  | Tran Le Bao        Ngan    | Nu       | 01/01/2004   | Thua Thien Hue     | 117220025@sv3.dut.udn.vn
+ 26  | 117220026  | Nguyen Xuan        Nghia   | Nam      | 11/05/2004   | Nghe An            | 117220026@sv3.dut.udn.vn
+ 27  | 117220027  | Le Thi Bao         Ngoc    | Nu       | 01/03/2004   | Quang Nam          | 117220027@sv3.dut.udn.vn
+ 28  | 117220028  | Le Minh            Nhat    | Nam      | 01/06/2004   | Quang Tri          | 117220028@sv3.dut.udn.vn
+ 29  | 117220029  | Vo Truong          Nhat    | Nam      | 06/05/2004   | Quang Nam          | 117220029@sv3.dut.udn.vn
+ 30  | 117220030  | Phan Tran Ha       Nhu     | Nu       | 14/04/2004   | Ho Chi Minh        | 117220030@sv3.dut.udn.vn
+ 31  | 117220031  | Duong Nhat         Quan    | Nam      | 19/04/2004   | Ha Tinh            | 117220031@sv3.dut.udn.vn
+ 32  | 117220032  | Mai Thanh          Thao    | Nu       | 22/05/2004   | Binh Dinh          | 117220032@sv3.dut.udn.vn
+ 33  | 117220033  | Le Hung            Thinh   | Nam      | 03/02/2006   | Dak Lak            | 117220033@sv3.dut.udn.vn
+ 34  | 117220034  | Nguyen Le Ba       Thong   | Nam      | 02/11/2004   | Da Nang            | 117220034@sv3.dut.udn.vn
+ 35  | 117220035  | Nguyen Phan Thuy   Tien    | Nu       | 26/08/2004   | Da Nang            | 117220035@sv3.dut.udn.vn
+ 36  | 117220036  | Mai Trong          Tin     | Nam      | 06/07/2004   | Thua Thien Hue     | 117220036@sv3.dut.udn.vn
+ 37  | 117220037  | Huynh Minh         Toan    | Nam      | 14/08/2004   | Ha Tinh            | 117220037@sv3.dut.udn.vn
+ 38  | 117220038  | Nguyen Thi Thanh   Tra     | Nu       | 09/07/2004   | Da Nang            | 117220038@sv3.dut.udn.vn
+ 39  | 117220039  | Huynh Bich         Tram    | Nu       | 15/01/2004   | Binh Duong         | 117220039@sv3.dut.udn.vn
+ 40  | 117220040  | Huynh Cong         Tri     | Nam      | 20/02/2004   | Da Nang            | 117220040@sv3.dut.udn.vn
+ 41  | 117220041  | Huynh Bac          Trung   | Nam      | 02/12/2004   | Quang Binh         | 117220041@sv3.dut.udn.vn
+ 42  | 117220042  | Nguyen Anh         Truong  | Nam      | 15/11/2004   | Binh Dinh          | 117220042@sv3.dut.udn.vn
+ 43  | 117220043  | Nguyen Dang        Truong  | Nam      | 12/06/2004   | Quang Nam          | 117220043@sv3.dut.udn.vn
+ 44  | 117220044  | Ho Minh            Tu      | Nam      | 10/07/2004   | Quang Nam          | 117220044@sv3.dut.udn.vn
+ 45  | 117220045  | Tran Duc           Tuan    | Nam      | 23/11/2004   | Thanh Hoa          | 117220045@sv3.dut.udn.vn
+ 46  | 117220046  | Tran To            Uyen    | Nu       | 09/03/2004   | Da Nang            | 117220046@sv3.dut.udn.vn
+ 47  | 117220047  | Tran Thi Ngoc      Vi      | Nu       | 12/11/2004   | Nghe An            | 117220047@sv3.dut.udn.vn
+ 48  | 117220048  | Nguyen Thanh       Viet    | Nam      | 15/06/2004   | Da Nang            | 117220048@sv3.dut.udn.vn
+ 49  | 117220049  | Nguyen Thuong      Vong    | Nam      | 10/02/2004   | Quang Nam          | 117220049@sv3.dut.udn.vn
+ 50  | 117220050  | Pham Thi           Yen     | Nu       | 08/08/2004   | Quang Tri          | 117220050@sv3.dut.udn.vn

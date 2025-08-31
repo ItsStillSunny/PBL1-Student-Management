@@ -1,0 +1,67 @@
+Tran Minh|Hieu|Nam|21/04/2005|Da Nang|102|2023
+Nguyen Thu|Trang|Nu|11/09/2005|Quang Nam|102|2023
+Phan My|Duyen|Nu|01/01/2005|Nghe An|102|2023
+Nguyen Dinh|Chau|Nu|20/09/2005|Quang Binh|102|2023
+Pham Bao|An|Nam|19/02/2005|Quang Ngai|102|2023
+Nguyen Thanh|Bao|Nam|28/11/2005|Da Nang|102|2023
+Ta Quang|Bao|Nam|07/03/2005|Quang Nam|102|2023
+Bui Ngoc|Chanh|Nam|27/09/2005|Quang Nam|117|2023
+Dang Thi My|Anh|Nu|12/06/2005|Da Nang|121|2023
+Nguyen Ngoc|Anh|Nu|12/06/2005|Quang Nam|118|2023
+Dao Tien|Dat|Nam|11/09/2006|Quang Ngai|102|2023
+Vo Quoc|Dat|Nam|21/06/2005|Quang Nam|102|2023
+Nguyen Dinh|Hau|Nam|12/07/2005|Nghe An|104|2023
+Pham Minh|Hung|Nam|11/03/2005|Quang Binh|107|2023
+Nguyen Anh|Tuyet|Nu|20/11/2005|Thua Thien Hue|118|2023
+Tran Quang|Nhat|Nam|10/06/2005|Quang Tri|102|2023
+Nguyen Thi Thu|Thuy|Nu|19/04/2006|Ha Tinh|106|2023
+Le Hoang Thuy|Anh|Nu|17/04/2005|Nghe An|117|2023
+Nguyen Dinh|Hoang|Nam|23/09/2005|Da Nang|101|2023
+Nguyen Minh|Hien|Nam|11/12/2005|Binh Dinh|104|2023
+Pham Nguyen|Khang|Nam|23/04/2005|Nghe An|105|2023
+Cao Van|Linh|Nam|13/09/2005|Quang Nam|107|2023
+Do Tuan|Kiet|Nam|22/03/2005|Thanh Hoa|101|2023
+Hoang Dinh|Huy|Nam|10/12/2005|Quang Binh|117|2023
+Vo Thi|Nhung|Nu|23/11/2005|Da Nang|121|2023
+Hoang Van|Tai|Nam|09/07/2005|Quang Tri|121|2023
+Tran Van|Tam|Nam|11/02/2005|Quang Nam|118|2023
+Nguyen Minh|Chau|Nu|28/07/2005|Binh Dinh|102|2023
+Tran Phuoc|Tam|Nam|21/05/2005|Ho Chi Minh|117|2023
+Le Van|Minh|Nam|10/05/2005|Ha Tinh|101|2023
+Le Nguyen Quang|Son|Nam|26/03/2005|Da Nang|102|2023
+Hoang Vu Tuan|Anh|Nam|09/11/2005|Thua Thien Hue|105|2023
+Tran Nguyen Hoang|Bach|Nam|26/05/2005|Khanh Hoa|118|2023
+Nguyen Duc|Dung|Nam|21/02/2005|Thai Binh|117|2023
+Pham Xuan|Hieu|Nam|17/11/2005|Quang Binh|107|2023
+Duong Quoc|Hiep|Nam|14/01/2005|Quang Nam|101|2023
+Nguyen Truong|Vu|Nam|12/09/2005|Nghe An|102|2023
+Phan Thanh|Hai|Nam|21/02/2005|Thua Thien Hue|104|2023
+Ho Tran Anh|Duc|Nam|23/04/2005|Da Nang|102|2023
+Nguyen Duc|Dung|Nam|22/11/2005|Ha Tinh|106|2023
+Nguyen Chau Ngoc|Anh|Nu|22/05/2005|Da Nang|118|2023
+Tran Huyen|Anh|Nu|23/05/2005|Quang Nam|121|2023
+Hoang Thai|Bao|Nam|13/02/2005|Thua Thien Hue|102|2023
+Truong Quang|Vu|Nam|22/09/2005|Quang Nam|117|2023
+Doan Duc|Dat|Nam|21/11/2005|Quang Tri|101|2023
+Le Thi Ha|Giang|Nu|14/02/2005|Quang Ngai|106|2023
+Phan Ngoc Gia|Han|Nu|11/07/2005|Da Nang|102|2023
+Pham Nam|Binh|Nam|22/05/2004|Da Nang|102|2023
+Pham Le Minh|An|Nam|11/09/2005|Quang Nam|102|2023
+Nguyen Duc Quang|Anh|Nam|24/01/2005|Da Nang|102|2023
+Phan Ngoc|Cam|Nam|25/11/2005|Quang Tri|102|2023
+Truong Bui|Dien|Nam|21/04/2005|Quang Tri|102|2023
+Tran Viet|Duy|Nam|09/10/2005|Nghe An|102|2023
+Vo Van|Hieu|Nam|09/02/2005|Da Nang|102|2023
+Le Thi Dieu|Hoa|Nu|06/04/2005|Da Nang|102|2023
+Ngo Khai|Hoan|Nam|19/04/2005|Da Nang|102|2023
+Pham Minh|Hien|Nam|23/01/2005|Quang Binh|102|2023
+Nguyen Anh|Hoang|Nam|24/11/2005|Ha Tinh|102|2023
+Nguyen Tuong|Huy|Nam|09/07/2005|Quang Tri|102|2023
+Nguyen Do Khanh|Linh|Nu|31/07/2005|Kien Giang|102|2023
+Huynh Tan|Luc|Nam|22/01/2005|Da Nang|102|2023
+
+
+
+
+
+

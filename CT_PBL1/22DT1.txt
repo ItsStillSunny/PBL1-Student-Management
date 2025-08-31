@@ -1,0 +1,14 @@
+
+				TRUONG DAI HOC BACH KHOA - DAI HOC DA NANG
+				KHOA: Dien tu - Vien thong22DT1
+				DANH SACH LOP 22DT1 - Khoa hoc 2022
+
+						DANH SACH LOP 22DT1
+STT  | MSSV       |    Ho va ten               | Gioi tinh| Ngay sinh    | Dia chi            | Email
+---------------------------------------------------------------------------------------------------------------------
+ 0   |            | Nguyen Le Quoc     Huy     | Nam      | 24/12/2004   | Da Nang            | 
+ 0   |            | Phan Tran Khanh    Linh    | Nu       | 31/03/2004   | Thanh Hoa          | 
+ 0   |            | Nguyen Duy         Chien   | Nam      | 25/08/2004   | Quang Binh         | 
+ 0   |            | Pham Hoang Gia     Phu     | Nam      | 30/03/2004   | Quang Ngai         | 
+ 0   |            | Thai Van           Toan    | Nam      | 04/02/2004   | Nghe An            | 
+ 0   |            | Nguyen Thanh       Viet    | Nam      | 01/03/2004   | Da Nang            | 
